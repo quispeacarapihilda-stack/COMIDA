@@ -14,11 +14,11 @@ ul li:hover{
     font-size: larger;
     cursor: pointer;}
 footer{background: linear-gradient( to right, rgb(231, 18, 185),rgb(143, 149, 235));} 
-.imagenfondo{ background-image: url(imagenes/d.jpg);
+.imagenfondo{ background-image: url(bolivia.webp);
                background-size: cover;
                background-position: center;
                background-repeat: no-repeat;
-               height: 450px;
+               height: 150px;
                justify-content: center;
                align-items: center;
                text-align: center;
@@ -38,3 +38,10 @@ h2{ color: bisque;
     transform: scale(1.1);
     cursor: pointer;
     font-weight: bold;}
+iframe{display: block;
+    width:95% ;
+    height:550px;
+    margin: 15px;
+    border: 2px;
+    border-radius: 15px;
+    background-color:palevioletred;}
