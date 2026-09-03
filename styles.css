@@ -14,7 +14,7 @@ ul li:hover{
     font-size: larger;
     cursor: pointer;}
 footer{background: linear-gradient( to right, rgb(231, 18, 185),rgb(143, 149, 235));} 
-.imagenfondo{ background-image: url(bolivia.webp);
+.imagenfondo{ background-image: url(imagenes/bolivia.webp);
                background-size: cover;
                background-position: center;
                background-repeat: no-repeat;
